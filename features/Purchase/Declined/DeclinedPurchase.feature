@@ -1,5 +1,5 @@
-@sprint-4 @Purchase
-Feature: Purchase
+@sprint-5 @Purchase @Declined
+Feature: Declined Purchase
 
   Background: As a user I want to purchase on CucumberPro
 
